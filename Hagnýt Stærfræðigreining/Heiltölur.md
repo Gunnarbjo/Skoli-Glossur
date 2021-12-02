@@ -1,1 +1,1 @@
-Mengi heiltalna er táknað með stóru Z og eru þá allar jákvæðar og neikvæðar heiltölur
+[[mengi]] heiltalna er táknað með stóru Z og eru þá allar jákvæðar og neikvæðar heiltölur

@@ -1,0 +1,1 @@
+Ef $P(x)=a_nx^n+a_{n−1}x^{n−1}+⋯+a_1x+a_0$ er [[margliður]] af oddatölu stigi $n$, þá er til [[rauntala]] $c$ þannig að $P(c)=0$.

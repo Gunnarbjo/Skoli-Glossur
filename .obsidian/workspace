@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hagnýt Stærfræðigreining/samfelldni.md",
+            "file": "Afleiður.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 209.5
   },
   "right": {
     "id": "2b4dfcfbbc58dc52",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hagnýt Stærfræðigreining/samfelldni.md",
+                "file": "Afleiður.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hagnýt Stærfræðigreining/samfelldni.md",
+                "file": "Afleiður.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -108,15 +108,15 @@
   },
   "active": "b16a118d767e20ef",
   "lastOpenFiles": [
-    "Hagnýt Stærfræðigreining/samfelldni.md",
-    "Hagnýt Stærfræðigreining/2. Markgildi og samfelldni.md",
-    "ræð veldi.md",
+    "Afleiður.md",
+    "Hagnýt Stærfræðigreining/samskeiting falla.md",
     "Hagnýt Stærfræðigreining/1. Tölur og föll.md",
-    "Hagnýt Stærfræðigreining/tölugildi.md",
-    "ósamfellt.md",
-    "Hagnýt Stærfræðigreining/markgildi.md",
-    "Hagnýt Stærfræðigreining/tvíliða.md",
-    "Hagnýt Stærfræðigreining/samokareglu.md",
-    "Hagnýt Stærfræðigreining/klemmuregla.md"
+    "Hagnýt Stærfræðigreining/samfelldni.md",
+    "Hagnýt Stærfræðigreining/fylgisetning.md",
+    "Hagnýt Stærfræðigreining/milligildissetningin.md",
+    "Hagnýt Stærfræðigreining/Heiltölur.md",
+    "Hagnýt Stærfræðigreining/2. Markgildi og samfelldni.md",
+    "Hagnýt Stærfræðigreining/ræð veldi.md",
+    "Hagnýt Stærfræðigreining/tölugildi.md"
   ]
 }

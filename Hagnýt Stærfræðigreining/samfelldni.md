@@ -4,6 +4,12 @@ Við segjum að fall $f$ sé samfellt ef það er samfellt í sérhverjum punkti
 
 Athugið að til að fall sé samfellt er einungis gerð krafa um að það sé samfellt í öllum punktum [[skilgreiningarmengi]] síns. Samkvæmt þessari skilgreiningu er fallið $f(x)=\frac{1}{x}$ með [[skilgreiningarmengi]] $\mathbb{R}∖{0}$ samfellt jafnvel þó það taki stökk í kringum $x=0$ einfaldlega af þeirri ástæðu að $0$ er ekki í [[skilgreiningarmengi]] fallsins.
 
+**Uppfærð skilgreining á samfelldu falli**
+
+Gerum ráð fyrir að $f$ sé fall sem er skilgreint á [[mengi]] $A$, þar sem $A$ er sammengi endanlega margra bila. Við segjum að fallið $f$ sé samfellt ef það er samfellt í öllum innri punktum [[skilgreiningarmengi]] og ef það er samfellt frá hægri/vinstri í [[jaðarpunktur]] [[skilgreiningarmengi]], eftir því sem við á.
+
+Ef fall er samfellt á opnu bili $]a,b[$, og ef $a<c<d<b$, þá er fallið einnig samfellt á bilinu $[c,d]$.
+
 **Dæmi um samfelld föll**
 
 - [[margliður]]
@@ -12,7 +18,7 @@ Athugið að til að fall sé samfellt er einungis gerð krafa um að það sé 
 - [[hornaföll]]
 - [[tölugildisfall]]
 
-**Að búa til samfellt fall**$
+**Að búa til samfellt fall**
 
 Með því að nota föllin úr dæminu á undan sem efnivið þá getum við búið til fjölda samfelldra falla 
 
@@ -28,23 +34,12 @@ ef $x$ er ekki innri punktur $A$ og $x\in A$ þá segjum við að $x$ sé [[jað
 
 **Skilgreining á hægri/vinstri samfelldni**
 
-Fall $f$ er samfellt frá hægri í punkti $c$ ef $lim_{x\to c^+}f(x)=f(c)$
-
-.
-
-Hér er gert ráð fyrir að fallið f
-
-sé amk. skilgreint á bili [c,a[-   .
+- Fall $f$ er samfellt frá hægri í punkti $c$ ef $lim_{x\to c^+}f(x)=f(c)$.
+Hér er gert ráð fyrir að fallið $f$
+sé amk. skilgreint á bili $[c,a[$.
     
--   Fall f
-    
-er _samfellt frá vinstri í punkti_ c ef limx→c−f(x)=f(c)
-
-.
-
-Hér er gert ráð fyrir að fallið f
-
-sé amk. skilgreint á bili ]a,c
+-  Fall $f$ er samfellt frá vinstri í punkti $c$ ef $lim_{x\to c^−}f(x)=f(c)$.
+Hér er gert ráð fyrir að fallið $f$ sé amk. skilgreint á bili $]a,c]$
 
 **Skilgreining á samfelldni í punkti**
 
@@ -69,3 +64,13 @@ Látum $g$ vera fall sem er skilgreint á opnu bili umhverfis $c$ og samfellt í
 
 Ef fall er skilgreint með formúlu og [[skilgreiningarmengi]] er ekki tilgreint sérstaklega, þá er venjan að líta alla þá punkta þar sem formúlan gildir sem [[skilgreiningarmengi]] fallsins.
 
+**Eiginleikar samfelldra falla**
+
+Látum $f$ vera samfellt fall skilgreint á lokuðu takmörkuðu bili $[a,b]$. Þá eru til tölur $x1$ og $x2$ í $[a,b]$ þannig að fyrir allar tölur $x$ í $[a,b]$ er $f(x1)≤f(x)≤f(x2)$.
+
+Þetta þýðir að samfellt fall $f$ á lokuðu og takmörkuðu bili $[a,b]$ tekur bæði hæsta og lægsta gildi á bilinu. Hæsta gildið er þá $f(x2)$ og lægsta gildið er $f(x1)$.
+
+Það er möguleiki að fallið taki há/lággildi sitt í fleirri en einum punkti.
+
+- [[milligildissetningin]]
+- [[fylgisetning]]
