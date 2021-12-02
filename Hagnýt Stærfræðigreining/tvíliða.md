@@ -1,0 +1,1 @@
+**Tvíliða** er tegund af [[margliður]] sem hefur tvo liði (þ.e. sem er summa tveggja einliða en tvíliður eru oft umluktar svigum þegar þær eru notaðar í útreikningum. Dæmi um tvíliðu er til dæmis $a^2 − b^2$ sem þátta má í tvær aðrar tvíliður: $a^2 − b^2 = ( a + b ) ( a − b )$.

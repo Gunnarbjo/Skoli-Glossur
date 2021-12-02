@@ -1,0 +1,1 @@
+Skilgreiningarmengi er einnig kallað [[formengi]]

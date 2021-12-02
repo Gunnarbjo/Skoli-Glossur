@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "92e3f9964caa7892",
+    "type": "split",
+    "children": [
+      {
+        "id": "b16a118d767e20ef",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hagnýt Stærfræðigreining/samfelldni.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f327a69e9bb78bbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bb41241b1594bb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1818c005842ec26d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ee512d6e4be4755",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "2b4dfcfbbc58dc52",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2db170297190d1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a484b830da32039",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hagnýt Stærfræðigreining/samfelldni.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1256250973797f4e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hagnýt Stærfræðigreining/samfelldni.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "641cd97276ce7463",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "active": "b16a118d767e20ef",
+  "lastOpenFiles": [
+    "Hagnýt Stærfræðigreining/samfelldni.md",
+    "Hagnýt Stærfræðigreining/2. Markgildi og samfelldni.md",
+    "ræð veldi.md",
+    "Hagnýt Stærfræðigreining/1. Tölur og föll.md",
+    "Hagnýt Stærfræðigreining/tölugildi.md",
+    "ósamfellt.md",
+    "Hagnýt Stærfræðigreining/markgildi.md",
+    "Hagnýt Stærfræðigreining/tvíliða.md",
+    "Hagnýt Stærfræðigreining/samokareglu.md",
+    "Hagnýt Stærfræðigreining/klemmuregla.md"
+  ]
+}

@@ -1,0 +1,1 @@
+Almennt gildir fyrir fallið y = f(x) að y = f(x) + a hliðrar fallinu upp um a ef a > 0 en niður um a ef a < 0

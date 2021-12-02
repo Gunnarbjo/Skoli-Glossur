@@ -1,0 +1,1 @@
+Bakmengifalls f er [[mengi]] Y, sem inniheldur [[frálag]] fallsins, táknað _f_:_X_→_Y_, þar sem _X_ er [[formengi]]. [[Myndmengi]] falls er [[hlutmengi]] í bakmenginu, en ef bakmengi og myndmengi eru sama mengið er fallið sagt [[átækt]]

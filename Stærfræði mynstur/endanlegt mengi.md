@@ -1,0 +1,1 @@
+Látum S vera [[mengi]]. Séu n mismunandi stök í S og n ∈ Z+, þá er S endanlegt "finite set" [[mengi]] a og n er fjöldatala "cardinality" mengisins S. Fjöldatala (eða stærð) mengisins S er táknuð með|S|

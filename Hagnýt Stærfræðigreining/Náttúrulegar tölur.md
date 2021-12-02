@@ -1,0 +1,1 @@
+Náttúrulegar tölur eru mengi allra jákvæðra heiltalna táknað með N

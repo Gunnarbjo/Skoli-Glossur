@@ -1,0 +1,1 @@
+Rauntölur eru mengi allra talna táknað með stóru R

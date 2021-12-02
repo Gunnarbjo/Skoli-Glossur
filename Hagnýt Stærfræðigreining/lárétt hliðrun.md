@@ -1,0 +1,1 @@
+almennt gildir fyrir fallið y = f(x) að y = f(x + b) hliðrar fallinu til hægri um b ef b > 0 og vinstri ef b < 0

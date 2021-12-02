@@ -1,0 +1,1 @@
+Mælieining í hornafræði sem miðast við það að heill hringur séu 360°

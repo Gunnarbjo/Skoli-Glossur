@@ -1,0 +1,1 @@
+Svissneski stærðfræðingurinn Leonhard Euler gaf fastanum fræga stafinn e til auðkenningar árið 1720. Algengur misskilningur er að hann hafi fundið töluna, en talan hafði verið þekkt um nokkra hríð. Hann leiddi hins vegar út mikilvæga tengingar milli hennar og logra.

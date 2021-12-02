@@ -1,0 +1,1 @@
+Skurðpunktur er sá punktur sem línan sker y-ás

@@ -1,0 +1,1 @@
+Vaxandi er þegar [[hallatala]] línunar er jákvæð

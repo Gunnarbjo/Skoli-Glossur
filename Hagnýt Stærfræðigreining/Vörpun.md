@@ -1,0 +1,1 @@
+Vörpun er annað nafn fyrir fall, í því eru tvö mengi [[formengi]] og [[myndmengi]] og svo regla sem úthlutar hverju staki í formenginu nákvæmlega eitt stak í myndmenginu
