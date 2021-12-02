@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stærfræði mynstur/jafngildissönnun.md",
-            "mode": "preview"
+            "file": "Stærfræði mynstur/1 Stærfræðimynstur.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stærfræði mynstur/jafngildissönnun.md",
+                "file": "Stærfræði mynstur/1 Stærfræðimynstur.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stærfræði mynstur/jafngildissönnun.md",
+                "file": "Stærfræði mynstur/1 Stærfræðimynstur.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -108,15 +108,15 @@
   },
   "active": "b16a118d767e20ef",
   "lastOpenFiles": [
+    "Stærfræði mynstur/1 Stærfræðimynstur.md",
+    "Stærfræði mynstur/Sönnun á tilfellum.md",
+    "Stærfræði mynstur/Þaulleitarsönnun.md",
+    "Stærfræði mynstur/Mótdæmi.md",
     "Stærfræði mynstur/jafngildissönnun.md",
     "Stærfræði mynstur/Mótsagnir.md",
     "Hagnýt Stærfræðigreining/Sléttar tölur.md",
     "Stærfræði mynstur/mótskilyrðing.md",
     "Stærfræði mynstur/Bein sönnun.md",
-    "Hagnýt Stærfræðigreining/oddatala.md",
-    "Hagnýt Stærfræðigreining/heiltala.md",
-    "Stærfræði mynstur/Sönnun.md",
-    "Stærfræði mynstur/1 Stærfræðimynstur.md",
-    "Stærfræði mynstur/setning.md"
+    "Hagnýt Stærfræðigreining/oddatala.md"
   ]
 }

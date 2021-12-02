@@ -18,6 +18,6 @@ forgangur rökvirkja er
 
 [[setning]] "theorem" er staðhæfing sem hægt er að sýna fram á að sé sönn
 
-[[Sönnun]] Samanstendur af gildri rökleiðslu og ályktunum sem sýna fram á að setning sé ávalt sönn út frá gefnum forsendum. [[yrðingar]] í [[rökleiðing]] geta verið [[frumreglur]].
+[[Sönnun]] Samanstendur af gildri rökleiðslu og ályktunum sem sýna fram á að [[setning]] sé ávalt sönn út frá gefnum forsendum. [[yrðingar]] í [[rökleiðing]] geta verið [[frumreglur]].
 
  
