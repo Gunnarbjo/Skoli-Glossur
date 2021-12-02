@@ -17,7 +17,7 @@ Gerum ráð fyrir að $\lim_{x \to a}f(x)=L$ og að $lim_{x\to a}g(x)=M$. Þá g
 -   $\lim_{x\to a}f(x)g(x)=LM$ 
 -   $\lim_{x\to a}kf(x)=kL$ , þar sem $k$ er fasti. 
 -   $\lim_{x\to a}f(x)/g(x)=L/M$, að því gefnu að $M\neq0$   
--   Gerum ráð fyrir að $m$ og $n$ séu [[heiltölur]] þannig að $f(x)^{m/n}$ sé skilgreint fyrir öll $x$ á bili (b,c) umhverfis $a$ (en ekki endilega fyrir $x=a$) og að $L^{m/n}$ sé skilgreint. Þá er $\lim_{x\to a}f(x)^{m/n}=L^{m/n}$   .
+-   Gerum ráð fyrir að $m$ og $n$ séu [[heiltala]] þannig að $f(x)^{m/n}$ sé skilgreint fyrir öll $x$ á bili (b,c) umhverfis $a$ (en ekki endilega fyrir $x=a$) og að $L^{m/n}$ sé skilgreint. Þá er $\lim_{x\to a}f(x)^{m/n}=L^{m/n}$   .
 -   Ef til er bil (b,c) sem inniheldur a þannig að $f(x)\leq g(x)$ fyrir öll $x\in$(b,c), nema kannski $x=a$, þá er $\lim_{x\to a}f(x)=L\leq M=\lim_{x\to a}g(x)$.
 
 eins og fyrsti liður í setningunni á undan segir að ef markgildin $lim_{x\to a}f(x)$ og $lim_{x\to a}g(x)$ eru til þá sé markgildið $\lim_{x\to a}(f(x)+g(x))$ einnig til.

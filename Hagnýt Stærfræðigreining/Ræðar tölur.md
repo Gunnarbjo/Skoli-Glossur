@@ -4,4 +4,4 @@ Ræðar tölur eru mengi þeirra talna sem má tákna sem hlutfall tveggja heiln
 
 oft táknað með formúlunni
 
-Q= {m/n: m stak í [[Heiltölur]] og n stak í [[Heiltölur]] og n != 0} 
+Q= {m/n: m stak í [[heiltala]] og n stak í [[heiltala]] og n != 0} 

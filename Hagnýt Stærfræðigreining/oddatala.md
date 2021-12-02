@@ -1,0 +1,1 @@
+Tala sem er ekki deilanleg með 2

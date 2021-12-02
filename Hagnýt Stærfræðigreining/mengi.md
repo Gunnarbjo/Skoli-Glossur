@@ -1,4 +1,4 @@
-Mengi "set" er safn vel skilgreindra hluta. Hlutirnir sem mynda mengið kallast stök þess og þeir geta verið af hvaða tagi sem er, t.d. má tala um mengi allra ríkja í Evrópu og mengi allra [[Heiltölur]]
+Mengi "set" er safn vel skilgreindra hluta. Hlutirnir sem mynda mengið kallast stök þess og þeir geta verið af hvaða tagi sem er, t.d. má tala um mengi allra ríkja í Evrópu og mengi allra [[heiltala]]
 
 Mengi er óraðað safn aðgreindra hluta eða hugtaka sem saman mynda eina heild. ef x er stak$^a$ í menginu A, þá skrifum við x $\in$ A en ef x er ekki stak í A skrifum við x $\notin$ A.
 
@@ -6,7 +6,7 @@ Slaufusvigar eru oft notaðir til þess að afmarka mengi {.....}. og eru þríp
 
 Einnig er algengt að tilgreina skylirðin sem stök mengisins þurfa að uppfylla "Set builder notation"
 t.d. mengi jákvæðra heiltalna minni en 100 er
-{x $\in$ [[Heiltölur]]$^+$ $\mid$ x < 100}
+{x $\in$ [[heiltala]]$^+$ $\mid$ x < 100}
 
 Ritháttur mengja er oft styttur fyrir bil "interval"
 

@@ -1,0 +1,1 @@
+Tölur deilanlegar með 2
