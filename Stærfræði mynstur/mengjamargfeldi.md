@@ -1,4 +1,5 @@
-Látum A og B vera [[mengi]].Mengjamargfeldi "cartesian product" A og B er [[mengi]] allra raðaðra para(a,b)þar sem a ∈ A og b ∈ B,
+Látum A og B vera [[mengi]].
+Mengjamargfeldi "cartesian product" A og B er [[mengi]] allra raðaðra para(a,b)þar sem a ∈ A og b ∈ B,
 þ.e.a.s. mengið
 {(a,b) $\mid$ a $\in$ A $\land$ b $\in$ B}
 

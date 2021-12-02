@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b16a118d767e20ef",
+        "id": "2dcf219562078dd3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stærfræði mynstur/1 Stærfræðimynstur.md",
+            "file": "Stærfræði mynstur/De Morgan.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 135.50000190734863
   },
   "right": {
     "id": "2b4dfcfbbc58dc52",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stærfræði mynstur/1 Stærfræðimynstur.md",
+                "file": "Stærfræði mynstur/De Morgan.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stærfræði mynstur/1 Stærfræðimynstur.md",
+                "file": "Stærfræði mynstur/De Morgan.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -104,19 +104,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 188.5
+    "width": 100
   },
-  "active": "b16a118d767e20ef",
+  "active": "2dcf219562078dd3",
   "lastOpenFiles": [
-    "Stærfræði mynstur/1 Stærfræðimynstur.md",
-    "Stærfræði mynstur/Sönnun á tilfellum.md",
-    "Stærfræði mynstur/Þaulleitarsönnun.md",
-    "Stærfræði mynstur/Mótdæmi.md",
-    "Stærfræði mynstur/jafngildissönnun.md",
-    "Stærfræði mynstur/Mótsagnir.md",
-    "Hagnýt Stærfræðigreining/Sléttar tölur.md",
-    "Stærfræði mynstur/mótskilyrðing.md",
-    "Stærfræði mynstur/Bein sönnun.md",
-    "Hagnýt Stærfræðigreining/oddatala.md"
+    "Stærfræði mynstur/De Morgan.md",
+    "Stærfræði mynstur/mengjajafngildisreglur.md",
+    "Hagnýt Stærfræðigreining/mengi.md",
+    "Stærfræði mynstur/almengi.md",
+    "Stærfræði mynstur/ályktunarreglur.md",
+    "Stærfræði mynstur/jafngildisregla.md",
+    "Stærfræði mynstur/mengjamismunur.md",
+    "Stærfræði mynstur/mengjamargfeldi.md",
+    "Stærfræði mynstur/sniðmengi.md",
+    "Stærfræði mynstur/sundurlæg mengi.md"
   ]
 }

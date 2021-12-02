@@ -9,4 +9,4 @@ en ATH að ef [[mengi]] A og B eru jöfn þá gildir að
 
 A $\subseteq$ B og B $\subseteq$ A
 
-Tómt [[mengi]] er hlutmengi í öllum mengjum.
+Tómt [[mengi]] $\varnothing$ er hlutmengi í öllum mengjum.
