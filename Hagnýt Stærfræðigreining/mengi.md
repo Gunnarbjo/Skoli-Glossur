@@ -81,3 +81,9 @@ sönn? Við vitum að:
 Við getum því ályktað út frá skilgreiningu á [[hlutmengi]] að tóma mengið er [[hlutmengi]] í öllum mengjum.
 
 Hægt er að nota [[mengjajafngildisreglur]] til þess að einfalda mengjareikning
+
+- Hugmyndin um **tag/gagnagerð** (e. data type) byggir á mengjum.  
+- Gagnagerð samanstendur af mengi mögulegra gilda og aðgerðum á þeim.  
+- Gagnagerðin Boolean í Java skilgreinist af:  
+-- Menginu {true,false}  
+-- Aðgerðum: Og (&&), eða (||), . . .

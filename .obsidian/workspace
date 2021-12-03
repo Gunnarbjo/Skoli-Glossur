@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stærfræði mynstur/De Morgan.md",
-            "mode": "source"
+            "file": "Hagnýt Stærfræðigreining/mengi.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stærfræði mynstur/De Morgan.md",
+                "file": "Hagnýt Stærfræðigreining/mengi.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stærfræði mynstur/De Morgan.md",
+                "file": "Hagnýt Stærfræðigreining/mengi.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -108,15 +108,15 @@
   },
   "active": "2dcf219562078dd3",
   "lastOpenFiles": [
+    "Hagnýt Stærfræðigreining/mengi.md",
+    "Stærfræði mynstur/sniðmengi.md",
+    "Stærfræði mynstur/sammengi.md",
+    "Stærfræði mynstur/Eða-innleiðing.md",
     "Stærfræði mynstur/De Morgan.md",
     "Stærfræði mynstur/mengjajafngildisreglur.md",
-    "Hagnýt Stærfræðigreining/mengi.md",
     "Stærfræði mynstur/almengi.md",
     "Stærfræði mynstur/ályktunarreglur.md",
     "Stærfræði mynstur/jafngildisregla.md",
-    "Stærfræði mynstur/mengjamismunur.md",
-    "Stærfræði mynstur/mengjamargfeldi.md",
-    "Stærfræði mynstur/sniðmengi.md",
-    "Stærfræði mynstur/sundurlæg mengi.md"
+    "Stærfræði mynstur/mengjamismunur.md"
   ]
 }
