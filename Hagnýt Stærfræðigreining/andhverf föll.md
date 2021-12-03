@@ -16,7 +16,7 @@ $\iff x=\sqrt[3]y-4$
 
 með því fæst að fallið $f^{-1}(x)=\sqrt[3]{x-4}$ er andhverfa fallsins $f(x)$
 
-Andhverfur hafa þann rúmfræðilega eginleika að þær eru speiglun fallsins um línuna $y=x$ sem gerir það að verkum að það er þægilegt að teikna graf þeirra.
+Andhverfur hafa þann rúmfræðilega eginleika að þær eru [[speiglun]] fallsins um línuna $y=x$ sem gerir það að verkum að það er þægilegt að teikna graf þeirra.
 
 Hægt er að gera óandhverfanleg föll andhverfanleg með því að takmarka [[skilgreiningarmengi]] fallsins þannig að það verði [[eintækt]].
 
@@ -25,12 +25,15 @@ Hægt er að gera óandhverfanleg föll andhverfanleg með því að takmarka [[
 |     | Hornafall           | sin(x)                                     | cos(x)               | tan(x)                                     |
 | --- | ------------------- | ------------------------------------------ | -------------------- | ------------------------------------------ |
 |     | Tákn andhverfu      | $sin^{-1}(x)$                              | $cos^{-1}(x)$        | $tan^{-1}(x)$                              |
-|     | skilgreiningarmengi | $\big [-\frac{\pi}{2},\frac{\pi}{2}\big ]$ | $\big [0,\pi \big ]$ | $\big [-\frac{\pi}{2},\frac{\pi}{2}\big ]$ |
+|     | [[skilgreiningarmengi]] | $\big [-\frac{\pi}{2},\frac{\pi}{2}\big ]$ | $\big [0,\pi \big ]$ | $\big [-\frac{\pi}{2},\frac{\pi}{2}\big ]$ |
 |     |                     |                                            |                      |                                            |
 
 
 |     | Hornafall           | cot(x)              | csc(x)                                                | sec(x)                                    |
 | --- | ------------------- | ------------------- | ----------------------------------------------------- | ----------------------------------------- |
 |     | Tákn andhverfu      | $cot^{-1}(x)$       | $csc^{-1}(x)$                                         | $sec^{-1}(x)$                             |
-|     | Skilgreiningarmengi | $\big [0,\pi \big]$ | $\big [-\frac{\pi}{2},\frac{\pi}{2} \big], x \neq 0$ | $\big [0,\pi \big] x \neq \frac {\pi}{2}$ |
+|     | [[Skilgreiningarmengi]] | $\big [0,\pi \big]$ | $\big [-\frac{\pi}{2},\frac{\pi}{2} \big], x \neq 0$ | $\big [0,\pi \big] x \neq \frac {\pi}{2}$ |
     |                     |                     |                                                       |                                           |
+***
+
+Rifjum upp að gagntæk [[vörpun]] f:X→Y hefur andhverfu f−1:Y→X sem uppfyllir að
