@@ -1,1 +1,1 @@
-Lóðrétt er andstæðan við Lárétt þar sem það er hægt að sjá það fyrir sér sem strengur sem hangir niður úr einhverju, oft sagt vera eins og danglandi lóð í streng.
+Lóðrétt er andstæðan við [[Lárétt]] þar sem það er hægt að sjá það fyrir sér sem strengur sem hangir niður úr einhverju, oft sagt vera eins og danglandi lóð í streng.

@@ -6,7 +6,7 @@ Athugið að til að fall sé samfellt er einungis gerð krafa um að það sé 
 
 **Uppfærð skilgreining á samfelldu falli**
 
-Gerum ráð fyrir að $f$ sé fall sem er skilgreint á [[mengi]] $A$, þar sem $A$ er sammengi endanlega margra bila. Við segjum að fallið $f$ sé samfellt ef það er samfellt í öllum innri punktum [[skilgreiningarmengi]] og ef það er samfellt frá hægri/vinstri í [[jaðarpunktur]] [[skilgreiningarmengi]], eftir því sem við á.
+Gerum ráð fyrir að $f$ sé fall sem er skilgreint á [[mengi]] $A$, þar sem $A$ er [[sammengi]] endanlega margra bila. Við segjum að fallið $f$ sé samfellt ef það er samfellt í öllum innri punktum [[skilgreiningarmengi]] og ef það er samfellt frá hægri/vinstri í [[jaðarpunktur]] [[skilgreiningarmengi]], eftir því sem við á.
 
 Ef fall er samfellt á opnu bili $]a,b[$, og ef $a<c<d<b$, þá er fallið einnig samfellt á bilinu $[c,d]$.
 
@@ -56,7 +56,7 @@ Látum $f$ og $g$ vera föll. Gerum ráð fyrir að $c$ sé [[innri punktur]] [[
 -   $f/g$, ef $g(c)\neq 0$
 -   $(f(x))^{1/n}$, að því gefnu að $f(c)>0$ ef $n$ er slétt tala og $f(c)\neq 0$ ef $n<0$
     
-Þessi setning er bein afleiðing af reiknireglum fyrir [[markgildi]]
+Þessi [[setning]] er bein afleiðing af reiknireglum fyrir [[markgildi]]
 
 **Samskeiting samfelldra falla**
 
