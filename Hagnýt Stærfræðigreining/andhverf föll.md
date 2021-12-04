@@ -36,4 +36,36 @@ Hægt er að gera óandhverfanleg föll andhverfanleg með því að takmarka [[
     |                     |                     |                                                       |                                           |
 ***
 
-Rifjum upp að gagntæk [[vörpun]] f:X→Y hefur andhverfu f−1:Y→X sem uppfyllir að
+Rifjum upp að gagntæk [[vörpun]] $f:X\to Y$ hefur [[andhverf föll]] $f−1:Y\to X$ sem uppfyllir að
+
+$y=f(x)$ þá og því aðeins að $x=f^{−1}(y)$
+
+Látum $f:X\to Y$ vera fall sem skilgreint er á [[mengi]] $X$. Gerum ráð fyrir að $f$ sé [[eintækt]]. Með því að einskorða [[bakmengi]] $f$ við myndmengið $Y=f(X)$ þá verður $f:X\to Y$ gagntækt fall. Þá er til andhverfa $f^{−1}:Y\to X$
+
+Fall sem er strangt [[vaxandi]] eða strangt minnkandi er [[eintækt]] og á sér því andhverfu
+***
+
+**Eiginleikar andhverfa**
+
+- $y=f^{−1}(x)$ þá og því aðeins að $x=f(y)$
+    
+-   Skilgreingarsvæði $f$ er [[myndmengi]] $f^{−1}$
+    
+-   [[Myndmengi]] $f^{−1}$ er jafnt [[skilgreiningarmengi]] $f$
+    
+-   $f^{−1}(f(x))=x$ fyrir öll $x$ í [[skilgreiningarmengi]] $f$
+    
+-   $f(f^{−1}(x))=x$ fyrir öll $x$ í [[skilgreiningarmengi]] $f^{−1}$
+    
+-   $(f^{−1})^{−1}(x)=f(x)$ fyrir öll $x$ í [[skilgreiningarmengi]] $f$, alltsvo $(f^{−1})^{−1}=f$
+    
+-   Graf $f^{−1}$ er speglun á grafi $f$ um línuna $y=x$
+
+***
+**Afleiða anhverfunar**
+
+Gerum ráð fyrir að fall $f$ hafi andhverfu $f^{−1}$. Látum $x$ vera á [[skilgreiningarmengi]] $f$ og gerum ráð fyrir að $f$ sé diffranlegt í punktinum $f^{−1}(x)$ og að $f′(f^{−1}(x))\neq 0$. Þá er $f^{−1}$ diffranlegt í punktinum $x$ og
+
+$(f^{−1})′(x)=\frac{1}{f′(f^{−1}(x))}$
+
+Sem segir okkur sér í lagi að láréttur [[snertill]] við $f$ svarar til lóðrétts snertils við $f^{−1}$

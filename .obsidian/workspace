@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hagnýt Stærfræðigreining/andhverf föll.md",
+            "file": "Hagnýt Stærfræðigreining/3. Afleiður.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hagnýt Stærfræðigreining/andhverf föll.md",
+                "file": "Hagnýt Stærfræðigreining/3. Afleiður.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hagnýt Stærfræðigreining/andhverf föll.md",
+                "file": "Hagnýt Stærfræðigreining/3. Afleiður.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -108,15 +108,15 @@
   },
   "active": "2dcf219562078dd3",
   "lastOpenFiles": [
-    "Hagnýt Stærfræðigreining/andhverf föll.md",
     "Hagnýt Stærfræðigreining/3. Afleiður.md",
-    "Hagnýt Stærfræðigreining/keðjuregla.md",
-    "Hagnýt Stærfræðigreining/hornaföll.md",
-    "Hagnýt Stærfræðigreining/afleiður.md",
-    "Hagnýt Stærfræðigreining/margliður.md",
-    "Hagnýt Stærfræðigreining/dæmi um hærri afleiðu.md",
-    "Hagnýt Stærfræðigreining/2. Markgildi og samfelldni.md",
     "Hagnýt Stærfræðigreining/1. Tölur og föll.md",
-    "Hagnýt Stærfræðigreining/dæmi um afleiðu.md"
+    "Hagnýt Stærfræðigreining/fólgin diffrun.md",
+    "Hagnýt Stærfræðigreining/Vinnulag diffrunar.md",
+    "Hagnýt Stærfræðigreining/andhverfusetning.md",
+    "Hagnýt Stærfræðigreining/geisli.md",
+    "Hagnýt Stærfræðigreining/þvermál.md",
+    "Hagnýt Stærfræðigreining/hornaföll.md",
+    "Hagnýt Stærfræðigreining/ummál.md",
+    "Hagnýt Stærfræðigreining/andhverf föll.md"
   ]
 }
