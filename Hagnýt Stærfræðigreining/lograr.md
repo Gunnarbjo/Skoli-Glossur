@@ -8,7 +8,7 @@ Reiknum $log_2 (8)$
 
 við lýtum á vísifallið $2^x$ og samsvarandi logra $log_2(x)$ þar sem $2^3=8$ þá er $log_2(8)=3$
 
-Margföldunar-,kvóta og veldareglur
+Margföldunar-,kvóta og [[veldareglur]]
 
 - $log_b(ac)=log_b(a)+log_b(c)$
 - $log_b(\frac{a}{c})=log_b(a)-log_b(c)$
@@ -21,7 +21,9 @@ látum $a,b>0$ og $a\neq1,b\neq1$
 - $a^x = b^{xlog_b(a)}$ fyrir hverja rauntölu x.
 - $log_a(c)=\frac{log_b(x)}{log_b(a)}$ fyrir hverja rauntölu x.
 
-[[breiðbogafall]] hafa sama rithátt og hornaföll nema þau fá viðskeitið h, sem stendur fyrir hyperbolic. Hægt er að nota [[Veldisvísifall]] til þess að skilgreina þau.
+[[breiðbogafall]] hafa sama rithátt og [[hornaföll]] nema þau fá viðskeitið h, sem stendur fyrir hyperbolic. Hægt er að nota [[Veldisvísifall]] til þess að skilgreina þau.
 
 [[breiðbogafall]] $cosh(x),sinh(x)$ og $tanh(x)$ bregður talsvert oftar fyrir en hinum og því er ágætt að kannast við graf þeirra
 
+
+[[Afleiður]] logra er hægt að finna í [[3. Afleiður]]

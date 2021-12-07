@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hagnýt Stærfræðigreining/3. Afleiður.md",
+            "file": "Hagnýt Stærfræðigreining/4. Hagnýting á diffrun.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hagnýt Stærfræðigreining/3. Afleiður.md",
+                "file": "Hagnýt Stærfræðigreining/4. Hagnýting á diffrun.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hagnýt Stærfræðigreining/3. Afleiður.md",
+                "file": "Hagnýt Stærfræðigreining/4. Hagnýting á diffrun.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -108,15 +108,15 @@
   },
   "active": "2dcf219562078dd3",
   "lastOpenFiles": [
+    "Hagnýt Stærfræðigreining/4. Hagnýting á diffrun.md",
+    "Leibniz ritháttinn.md",
+    "Taylor-margliða.md",
     "Hagnýt Stærfræðigreining/3. Afleiður.md",
+    "Hagnýt Stærfræðigreining/vísiföll.md",
+    "Hagnýt Stærfræðigreining/lograr.md",
     "Hagnýt Stærfræðigreining/1. Tölur og föll.md",
     "Hagnýt Stærfræðigreining/fólgin diffrun.md",
     "Hagnýt Stærfræðigreining/Vinnulag diffrunar.md",
-    "Hagnýt Stærfræðigreining/andhverfusetning.md",
-    "Hagnýt Stærfræðigreining/geisli.md",
-    "Hagnýt Stærfræðigreining/þvermál.md",
-    "Hagnýt Stærfræðigreining/hornaföll.md",
-    "Hagnýt Stærfræðigreining/ummál.md",
-    "Hagnýt Stærfræðigreining/andhverf föll.md"
+    "Hagnýt Stærfræðigreining/andhverfusetning.md"
   ]
 }
