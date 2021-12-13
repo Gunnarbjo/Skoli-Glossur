@@ -1,0 +1,1 @@
+Ef fallið $f(x)$ er rætt fall með núllstöð a í nefnara, sem er ekki afmáanlegur sérstöðupunktur, þá er $x=a$ [[lóðrétt]] aðfella eða lóðfella fyrir fallið f.

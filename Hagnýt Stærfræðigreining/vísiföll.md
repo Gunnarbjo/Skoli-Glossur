@@ -20,7 +20,7 @@ Fyrir hvaða jákvæða grunnfasta b sem er $b \neq 1$ hefur fallið $f(x)=b^x$ 
 
 ef $b>1$ þá er fallið [[vaxandi]] og nálgast 0 ef $x\rightarrow -\infty$ en ef $x\rightarrow \infty$ þá nálgast fallið $\infty$
 
-ef $0<b<1$ þá er fallið [[minkandi]] og nálgast 0 ef $x\rightarrow \infty$ en ef $x\rightarrow -\infty$ þá nálgast fallið $\infty$
+ef $0<b<1$ þá er fallið [[minnkandi]] og nálgast 0 ef $x\rightarrow \infty$ en ef $x\rightarrow -\infty$ þá nálgast fallið $\infty$
 
 [[Afleiður]] vísisfalla er hægt að finna í [[3. Afleiður]]
 

@@ -1,0 +1,1 @@
+Ef um ræða fallið $f(x)$ gildir að $lim_{x→∞}f(x)=hx+k$ eða $lim_{x→−∞}f(x)=hx+k$ þar sem h,$k∈\mathbb{R}$ og $h≠0$ þá hefur fallið skáfellu í $y=hx+k$. Þetta gerist einungis ef stig teljarans er einum hærra en stig nefnarans.

@@ -1,0 +1,1 @@
+Látum $g:[a,b]→\mathbb{R}$ vera [[samfellt]] fall. Gerum ráð fyrir að g sé diffranlegt í öllum punktum bilsins $]a,b[$. Ef $g(a)=g(b)$ þá er til punktur c á bilinu $]a,b[$. þannig að $g′(c)=0$.

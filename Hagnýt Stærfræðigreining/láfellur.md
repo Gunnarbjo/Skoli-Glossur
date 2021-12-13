@@ -1,0 +1,1 @@
+Ef $lim_{x→∞}f(x)=L$ eða $lim_{x→−∞}f(x)=L$ segjum við að línan $y=L$ sé [[lárétt]] aðfella eða láfella fyrir f.

@@ -1,0 +1,1 @@
+Allir punktar $c$ sem uppfylla að $f'(c)=0$ eða $f'(c)$ er ekki skilgreint kallast stöðupunktur (e. critical points) fallsins.

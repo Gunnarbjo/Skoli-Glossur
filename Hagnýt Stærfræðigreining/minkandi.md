@@ -1,1 +1,0 @@
-Er þegar [[hallatala]] jöfnunar er neikvæð
