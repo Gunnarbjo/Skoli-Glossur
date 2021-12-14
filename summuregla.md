@@ -1,0 +1,1 @@
+$$∫\frac{x+1}{x}dx=∫(\frac xx+\frac1x)dx=∫(1+\frac1x)dx=x+ln(|x|)+C$$

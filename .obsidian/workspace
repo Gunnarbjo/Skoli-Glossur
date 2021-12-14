@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hagnýt Stærfræðigreining/l'hopital.md",
+            "file": "Hagnýt Stærfræðigreining/5.Heildun.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 108.50441551208496
   },
   "right": {
     "id": "2b4dfcfbbc58dc52",
@@ -63,44 +63,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a484b830da32039",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Hagnýt Stærfræðigreining/l'hopital.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "1256250973797f4e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hagnýt Stærfræðigreining/l'hopital.md",
+                "file": "Hagnýt Stærfræðigreining/5.Heildun.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
-          },
-          {
-            "id": "641cd97276ce7463",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,15 +82,15 @@
   },
   "active": "9a22c0fa1adb19c0",
   "lastOpenFiles": [
-    "Hagnýt Stærfræðigreining/l'hopital.md",
+    "Hagnýt Stærfræðigreining/5.Heildun.md",
+    "Óákveðið heildi.md",
+    "margföldun með fasta.md",
+    "summuregla.md",
     "Hagnýt Stærfræðigreining/4. Hagnýting á diffrun.md",
-    "Hagnýt Stærfræðigreining/bestun.md",
-    "Hagnýt Stærfræðigreining/að teikna graf falls.md",
-    "Hagnýt Stærfræðigreining/skáfellur.md",
-    "Hagnýt Stærfræðigreining/láfellur.md",
-    "Hagnýt Stærfræðigreining/lóðfellur.md",
-    "Hagnýt Stærfræðigreining/Kúpni.md",
-    "Hagnýt Stærfræðigreining/3. Afleiður.md",
-    "Hagnýt Stærfræðigreining/minnkandi.md"
+    "Hagnýt Stærfræðigreining/stofnfall.md",
+    "Hagnýt Stærfræðigreining/aðferð newtons.md",
+    "Hagnýt Stærfræðigreining/Náttúrulegar tölur.md",
+    "Hagnýt Stærfræðigreining/l'hopital.md",
+    "Hagnýt Stærfræðigreining/bestun.md"
   ]
 }

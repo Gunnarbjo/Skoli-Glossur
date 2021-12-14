@@ -1,1 +1,1 @@
-Náttúrulegar tölur eru mengi allra jákvæðra heiltalna táknað með N
+Náttúrulegar tölur eru mengi allra jákvæðra heiltalna táknað með $\mathbb{N}$
