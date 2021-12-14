@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 108.50441551208496
+    "width": 174.5
   },
   "right": {
     "id": "2b4dfcfbbc58dc52",
@@ -73,6 +73,23 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "38b39ae34117f94c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hagnýt Stærfræðigreining/5.Heildun.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
@@ -83,14 +100,14 @@
   "active": "9a22c0fa1adb19c0",
   "lastOpenFiles": [
     "Hagnýt Stærfræðigreining/5.Heildun.md",
-    "Óákveðið heildi.md",
-    "margföldun með fasta.md",
-    "summuregla.md",
-    "Hagnýt Stærfræðigreining/4. Hagnýting á diffrun.md",
-    "Hagnýt Stærfræðigreining/stofnfall.md",
-    "Hagnýt Stærfræðigreining/aðferð newtons.md",
-    "Hagnýt Stærfræðigreining/Náttúrulegar tölur.md",
-    "Hagnýt Stærfræðigreining/l'hopital.md",
-    "Hagnýt Stærfræðigreining/bestun.md"
+    "Hagnýt Stærfræðigreining/nálgun með hægri endapunkti.md",
+    "Hagnýt Stærfræðigreining/Nálgun með vinstri endapunlti.md",
+    "Hagnýt Stærfræðigreining/summuvirki.md",
+    "Hagnýt Stærfræðigreining/summuregla.md",
+    "Hagnýt Stærfræðigreining/diffrujöfnur.md",
+    "Hagnýt Stærfræðigreining/upphafsgildisverkefni.md",
+    "Hagnýt Stærfræðigreining/upphafsgildi.md",
+    "Hagnýt Stærfræðigreining/Óákveðið heildi.md",
+    "Hagnýt Stærfræðigreining/margföldun með fasta.md"
   ]
 }

@@ -1,0 +1,1 @@
+Upphafsgildi er það gildi sem er gefið með fyrstastigs afleiðujöfnum í [[upphafsgildisverkefni]]
